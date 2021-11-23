@@ -28,6 +28,12 @@
     border: 1px solid gray;
     border-radius: 5px;
   }
+
+  button:hover {
+    cursor: pointer;
+    background-color: lightcoral;
+    transform:scale(1.2);
+  }
   
   main {
     padding: 50px;
